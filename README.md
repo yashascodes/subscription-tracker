@@ -1,0 +1,1 @@
+This project uses a hashmap (a technique which i recently learned) to show you just how many your yearly/monthly subscription(s) actually cost. I am planning to add an HTML, JS, and CSS file in the near future to create a well developed website for this simple project. Next, I hope to create a machine learning algorithm to help with another useful/annoying things.
